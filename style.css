@@ -6,8 +6,6 @@
 
 body {
     font-family: sans-serif;
-    
-    
 }
 
 .container {
@@ -21,15 +19,13 @@ body {
 .contador {
     width: 400px;
     height: 400px;
-    background-color: rgb(10, 7, 34);
-    
+    background-color: rgb(10, 7, 34);    
     padding: 70px;
     border-radius: 40px;
     display: flex;
     justify-content: center;
     text-align: center;
     align-items: center;
-
 }
 
 .contador h1 {
